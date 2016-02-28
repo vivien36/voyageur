@@ -1,0 +1,17 @@
+h1, h2{
+    text-align: center;
+}
+#synthese{
+   text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+body{
+    background-image: url(../away.jpg);
+    background-size: 100%;
+    padding:20px;
+}
+#bouton{
+    margin-bottom: 20px;
+    margin-left: 48%;
+}
